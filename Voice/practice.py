@@ -1,2 +1,5 @@
-for i in range(1,11):
-    print(i)
+num1=5
+num2=4
+
+average=(num1+num2)/2
+print(average)
